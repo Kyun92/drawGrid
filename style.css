@@ -1,0 +1,13 @@
+
+.right{
+}
+#gridArea {
+  background-size: cover;
+  background: url("./x5.png") no-repeat center;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+body{
+  background-color: #7a7f87;
+}
